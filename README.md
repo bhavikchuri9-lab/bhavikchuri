@@ -24,17 +24,17 @@ This space showcases the projects I’ve completed across **Power BI, SQL, Pytho
 ---
 🚀 Featured Projects
 
-1️⃣ ##ShopNest Store Sales Analysis (Power BI Capstone Project)
+1️⃣ ShopNest Store Sales Analysis (Power BI Capstone Project)
 
-#🔴Tools: Power BI, DAX, Excel
+🔴Tools: Power BI, DAX, Excel
 
-#🔴Objective :To analyze store-wide sales performance, customer behavior, and regional trends to uncover business insights.
+🔴Objective :To analyze store-wide sales performance, customer behavior, and regional trends to uncover business insights.
 
-#🔴Action: Cleaned, transformed, and modeled raw sales data.
+🔴Action: Cleaned, transformed, and modeled raw sales data.
          Created DAX measures for KPIs such as Revenue, AOV, YoY Growth, and Category Performance.
          Developed fully interactive dashboards for sales trends, customer segmentation, and region-wise performance.
 
-#🔴Result: Identified top-performing product categories and underperforming regions.
+🔴Result: Identified top-performing product categories and underperforming regions.
           Highlighted major revenue drivers and seasonal trends enabling better business decisions.
 
 2️⃣ SQL Sales & Inventory Analysis (SQL Capstone Project)
